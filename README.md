@@ -5,6 +5,8 @@ Hem fet aquest formulari utilitzant Python. Hem emprat Flask i Jinja per crear e
 
 Aquí deixo els fitxers amb el codi que he utilitzat per a aquest projecte:  
 [Codi Python](formulari_hero.py)
+[Codi HTML on esta el formulari](formulari1.html)
+[Codi HTML on retorna la informació](retorno_hero.html)
 
 Això són imatges de com ha quedat el HeroQuest.
 
